@@ -1,4 +1,10 @@
-# ##calculator project  i am  vishal gaur
+
+# Task: CodSoft Internship
+# Project: Calculator / Todo / etc
+# Author: Vishal Gaur
+# Description: Simple console-based application using Python
+# thanks codsoft great internship nice exprince  bye....
+
 import tkinter as tk
 import math
 import winsound  # For button sound (Windows)
